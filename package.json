@@ -1,0 +1,26 @@
+{
+  "name": "js-code-assignment",
+  "version": "1.0.0",
+  "description": "Problem solver in js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishank/js-code-assignment.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "krishank dwivedi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krishank/js-code-assignment/issues"
+  },
+  "homepage": "https://github.com/Krishank/js-code-assignment#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
